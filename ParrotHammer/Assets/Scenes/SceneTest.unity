@@ -190,7 +190,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: e7e797fa08344eb449d3bf05dd1e1fc0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -386,7 +386,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: b1e49b32e9b48c043afbef0f8041884f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -452,6 +452,7 @@ MonoBehaviour:
     type: 3}
   EnemyDir: {fileID: 2619300523638269188, guid: ee006f4ed637a1c46ab009158e2fca68,
     type: 3}
+  BarrelsList: []
 --- !u!1 &1910214862
 GameObject:
   m_ObjectHideFlags: 0
