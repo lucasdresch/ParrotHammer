@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Player_idle
   - Player_hit
+  - EnemyEsq
+  - EnemyDir
   layers:
   - Default
   - TransparentFX
