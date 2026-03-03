@@ -103,7 +103,7 @@ public class PlayerCtrlrs : MonoBehaviour
             Debug.Log("Matou enemy!");
         } 
         else if(BarrelsList[0].gameObject.CompareTag("EnemyDir") && !lado) {
-            Debug.Log("Moreeu pro enemy!");
+            Debug.Log("Morreu pro enemy!");
         }
     }
 

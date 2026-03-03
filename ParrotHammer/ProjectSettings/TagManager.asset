@@ -8,6 +8,7 @@ TagManager:
   - Player_hit
   - EnemyEsq
   - EnemyDir
+  - Enemy
   layers:
   - Default
   - TransparentFX
