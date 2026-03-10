@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3488564185113835390}
   - component: {fileID: 9011392461911856819}
   - component: {fileID: 4587163421675246812}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: barril
   m_TagString: Enemy
   m_Icon: {fileID: 0}

@@ -9,6 +9,8 @@ TagManager:
   - EnemyEsq
   - EnemyDir
   - Enemy
+  - GameInfo
+  - TopInfo
   layers:
   - Default
   - TransparentFX
@@ -20,7 +22,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Barrel
   - 
   - 
   - 
